@@ -1,4 +1,0 @@
-﻿  Kalman.cpp
-d:\louis\06_code\05_ifp\01_kalman\klaman\klaman\kalman.cpp(27): warning C4305: 'initializing': truncation from 'double' to 'float'
-d:\louis\06_code\05_ifp\01_kalman\klaman\klaman\kalman.cpp(67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  Klaman.vcxproj -> D:\louis\06_Code\05_IFP\01_Kalman\Klaman\Debug\Klaman.exe
